@@ -10,7 +10,7 @@ To develop a robust model that accurately recognizes and classifies traffic sign
 
 - Developed using TensorFlow and Keras with a CNN architecture
 - Trained on a labeled dataset of traffic sign images
-- Achieves over 92% accuracy on test data
+- Achieves over 92% accuracy on test data (96%)
 - Handles noisy, low-resolution, and distant images
 
 ## Dataset Structure
