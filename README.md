@@ -15,7 +15,7 @@ To develop a robust model that accurately recognizes and classifies traffic sign
 
 ## Dataset Structure
 
-/Traffic_sign_Recognition/  
+/Dataset/
 ├── Train/  
 │   ├── 0/  
 │   ├── 1/  
@@ -47,6 +47,5 @@ To develop a robust model that accurately recognizes and classifies traffic sign
 
 This project is licensed under the MIT License.
 
-## Author
 
-[Your Name]
+Vaibhav Singh
